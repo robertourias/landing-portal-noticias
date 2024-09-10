@@ -6,7 +6,8 @@
 Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
 </p>
 
-<p align="center">
+<p align="center">  
+  <a href="https://robertourias.github.io/landing-portal-noticias/" target="_blank">Visualizar projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
